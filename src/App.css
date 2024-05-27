@@ -1,7 +1,12 @@
-/* src/App.css */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Your existing styles */
 .App {
   text-align: center;
-  margin-top: 50px;
 }
 
 form {
